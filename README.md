@@ -21,3 +21,5 @@ ocorrer.
 
   Os detalhes sobre nossas recomendações de ferramenta e datasets e como
 enviar seu projeto para análise, você encontra quando concluir a avaliação final.
+
+# EM ANDAMENTO
