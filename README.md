@@ -23,8 +23,4 @@ ocorrer.
 enviar seu projeto para análise, você encontra quando concluir a avaliação final.
 
 # Result
-Ação Prevista
-0.0    1046
-1.0    621 
-
 Do dataset utilizado para realizar previsões é possível notar que das 1667 Operadoras Telecom, 539 irão cancelar.
