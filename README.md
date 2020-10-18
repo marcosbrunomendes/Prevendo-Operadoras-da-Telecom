@@ -22,4 +22,5 @@ ocorrer.
   Os detalhes sobre nossas recomendações de ferramenta e datasets e como
 enviar seu projeto para análise, você encontra quando concluir a avaliação final.
 
-# EM ANDAMENTO
+# Result
+Do dataset utilizado para realizar previsões é possível notar que das 1667 Operadoras Telecom, 539 irão cancelar.
